@@ -1,2 +1,2 @@
-print("Vashine - July 2 Interview Ready")
-   print("Python + MySQL + Git + GitHub Done")
+print("Hello World")
+   print("Python Developer - vashine")
